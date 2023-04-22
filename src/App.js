@@ -6,6 +6,7 @@ import ImageDropzone from "./ImageDropzone";
 function App() {
   return (
     <div className="App">
+      <h1>Color Identifier</h1>
       <ImageDropzone />
     </div>
   );
