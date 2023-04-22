@@ -1,0 +1,7 @@
+core.quotepath=off
+core.checkstat=minimal
+pull.rebase=false
+credential.helper=!f() { echo "username=$(cat /user-store/eugeneleychenko/tokens/.githubtoken)
+password="; }; f
+user.email=nycspicebo@gmail.com
+user.name=eugeneleychenko
